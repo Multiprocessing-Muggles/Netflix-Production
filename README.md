@@ -61,6 +61,15 @@ https://user-images.githubusercontent.com/66564001/164236038-2e93e69c-7953-4ba2-
 https://user-images.githubusercontent.com/66564001/164236351-30492432-42a8-4166-9395-8c496892c1b4.mp4 -->
 
 
+## React Modal - Completed
 
+* Banner Button Funtiality added
+
+https://user-images.githubusercontent.com/66564001/164450861-56ae3347-24b7-458a-9b6f-e03a5f7cb4bc.mp4
+
+* Thubnail Funtiality added
+
+
+https://user-images.githubusercontent.com/66564001/164451590-4b8be340-8650-4719-878b-abd5ff35bb9c.mp4
 
 
