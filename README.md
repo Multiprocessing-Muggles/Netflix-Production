@@ -5,7 +5,7 @@
   <hr>
 </div>
 
-# [🟢 Live Sever](https://netflix-clone-sunami.netlify.app/)
+# [🟢 Live Sever](https://netflix-clone-v1-sunami.netlify.app/)
 
 <br>
 <hr>
